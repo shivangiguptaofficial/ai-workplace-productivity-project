@@ -34,5 +34,7 @@ This project simulates an internal AI adoption initiative within a business envi
 ---
 
 ## 📂 Repository Contents
-* `employee_performance.xlsx` - The underlying performance dataset analyzed during the project.
 
+* `employee_performance.xlsx` - The underlying performance dataset analyzed during the project.
+* `internal_memo.md` - Professional internal communication memo highlighting top performers.
+* `announcement_email.md` - Company-wide stakeholder announcement email template.
