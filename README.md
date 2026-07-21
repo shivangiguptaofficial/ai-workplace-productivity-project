@@ -35,4 +35,4 @@ This project simulates an internal AI adoption initiative within a business envi
 
 ## 📂 Repository Contents
 * `employee_performance.xlsx` - The underlying performance dataset analyzed during the project.
-* `AI_Adoption_Summary_Report.pdf` - Final executive summary report.
+
