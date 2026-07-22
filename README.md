@@ -4,6 +4,13 @@
 ## 📌 Project Overview
 This project simulates an internal AI adoption initiative within a business environment. As part of this initiative, I tested and deployed ChatGPT across core operational workflows—focusing on conversational data analysis, automated documentation, internal change management, and executive reporting.
 
+
+## 🛠️ Skills Demonstrated & Tech Stack
+* **AI & Prompt Engineering:** ChatGPT Custom Projects, Conversational Prompt Design, Workflow Automation.
+* **Data Analysis:** Microsoft Excel, Tabular Data Querying, Business Metric Extraction.
+* **Business Communication:** Executive Summary Writing, Internal Memos, Stakeholder Announcements.
+* **Tools & Platforms:** GitHub, Markdown Documentation.
+
 ---
 
 ## 🛠️ Project Structure & Workflow
@@ -38,3 +45,6 @@ This project simulates an internal AI adoption initiative within a business envi
 * `employee_performance.xlsx` - The underlying performance dataset analyzed during the project.
 * `internal_memo.md` - Professional internal communication memo highlighting top performers.
 * `announcement_email.md` - Company-wide stakeholder announcement email template.
+
+  
+
